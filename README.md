@@ -11,19 +11,7 @@
 ---
 
 <!-- 🎨 3D Scene (interactive embed) -->
-<div align="center">
-  <iframe title="3D Developer Room"
-          frameborder="0"
-          allowfullscreen
-          mozallowfullscreen="true"
-          webkitallowfullscreen="true"
-          width="640"
-          height="360"
-          src="https://sketchfab.com/models/7w7pAfrp9v6hCJ1kM2E6xUJ9N8LO/embed">
-  </iframe>
-  <br>
-  <sub>🧠 Explore my 3D workspace — drag, zoom, and rotate the model!</sub>
-</div>
+
 
 ---
 
@@ -61,9 +49,8 @@
 
 ---
 
-<h3 align="center">✨ Let’s Build the Future in 3D ✨</h3>
 
-```
+
 <p align="center"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400px" alt="3D Developer Working" /> </p> <p align="center"> <img src="https://i.pinimg.com/originals/35/fe/f8/35fef84ab4332359b48b8b8d5e07a6e4.gif" width="500px" alt="3D Neon Space Scene" /> </p>
 <p align="center"> <img src="https://skillicons.dev/icons?i=react,reactnative,js,ts,python,tensorflow,firebase,figma,blender,html,css,vscode,git&perline=6" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=adilanes1&show_icons=true&theme=react&bg_color=0D1117&icon_color=00ffff&title_color=00ffff&hide_border=true" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=adilanes1&theme=react&hide_border=true&background=0D1117&ring=00ffff&fire=00ffff&currStreakLabel=00ffff" width="48%"/> </p>
