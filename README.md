@@ -1,25 +1,68 @@
-<!-- 🚀 3D Holographic Developer README – Muhammad Adil Anees -->
+<!-- 🌌 3D Developer README with Interactive Model -->
 
-<!-- 🌌 3D Animated Header -->
+<h1 align="center">
+  👋 Hi, I'm <span style="color:#00f5ff;">M. Adil M. Anees</span>
+</h1>
+
+<h3 align="center">
+  💻 React Native | Machine Learning | 3D Innovator
+</h3>
+
+---
+
+<!-- 🎨 3D Scene (interactive embed) -->
+<div align="center">
+  <iframe title="3D Developer Room"
+          frameborder="0"
+          allowfullscreen
+          mozallowfullscreen="true"
+          webkitallowfullscreen="true"
+          width="640"
+          height="360"
+          src="https://sketchfab.com/models/7w7pAfrp9v6hCJ1kM2E6xUJ9N8LO/embed">
+  </iframe>
+  <br>
+  <sub>🧠 Explore my 3D workspace — drag, zoom, and rotate the model!</sub>
+</div>
+
+---
+
+### 🚀 About Me
+- 🧩 Passionate **React Native** & **Python ML Developer**
+- 🧠 Creating intelligent, accessible communication tools
+- 🌐 Love blending **AI + 3D Design + Mobile Apps**
+- 🎯 Focused on accessibility for the deaf community with *Hands to Talk*
+
+---
+
+### 🛠️ Tech Stack
+| Category | Technologies |
+|-----------|---------------|
+| 💡 Mobile Dev | React Native, Expo, Redux, AsyncStorage |
+| 🧠 ML & AI | TensorFlow, scikit-learn, OpenCV |
+| 🌍 Backend | Flask, Firebase, Node.js |
+| 🎨 Design | Blender, Figma, Three.js, Tailwind |
+
+---
+
+### 🏆 GitHub Stats
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:8A2BE2&height=250&section=header&text=Muhammad%20Adil%20Anees%20👨‍💻&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
-</p>
-
-<h2 align="center">✨ React Native | AI Innovator | 3D UI Creator ✨</h2>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adilanes1&label=Profile%20Views&color=00FFFF&style=for-the-badge" alt="profile views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adilanes1&show_icons=true&theme=tokyonight" alt="stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=adilanes1&theme=tokyonight" alt="streak" />
 </p>
 
 ---
 
-### 🧠 About Me
-```yaml
-💻 React Native Developer crafting futuristic mobile experiences  
-🧬 AI & ML Explorer working on Sign Language Recognition  
-🎨 3D UI Designer – blending motion, light, and interactivity  
-🚀 Turning accessibility into innovation  
-📫 Reach me at: madilmanees@gmail.com
+### 🌌 3D Footer Glow
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ayushjainrksh/contribution-graph-globe/main/dist/globe.gif" width="400"/>
+</p>
+
+---
+
+<h3 align="center">✨ Let’s Build the Future in 3D ✨</h3>
+
 ```
 <p align="center"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400px" alt="3D Developer Working" /> </p> <p align="center"> <img src="https://i.pinimg.com/originals/35/fe/f8/35fef84ab4332359b48b8b8d5e07a6e4.gif" width="500px" alt="3D Neon Space Scene" /> </p>
 <p align="center"> <img src="https://skillicons.dev/icons?i=react,reactnative,js,ts,python,tensorflow,firebase,figma,blender,html,css,vscode,git&perline=6" /> </p>
