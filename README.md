@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-  💻 React Native | Machine Learning | 3D Innovator
+  💻 React Native | Machine Learning 
 </h3>
 
 ---
